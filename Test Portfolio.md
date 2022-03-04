@@ -5,9 +5,10 @@
 # Christopher Alderson - Test Portfolio
 ## Test Plan
 > everyone has a plan until they get punched in the mouth
-[enter link description here](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
+[test plan](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
 ## Test Strategy
 > coverage and quality
+[test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 ## Test Case
 ### TestRail
 
@@ -41,6 +42,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNTExNjQzLC0xNzI2MjIzMDQxLDEzMT
-I2NjczODcsLTI3ODY1NDc1OF19
+eyJoaXN0b3J5IjpbLTE4NDcyNTkwNDgsLTE3MjYyMjMwNDEsMT
+MxMjY2NzM4NywtMjc4NjU0NzU4XX0=
 -->
