@@ -4,8 +4,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Christopher Alderson - Test Portfolio
 ## Test Plan
-> everyone has a plan till they get hit in the mouth
-
+> everyone has a plan until they get punched in the mouth
+[enter link description here](./test%20plan)
 ## Test Strategy
 > coverage and quality
 ## Test Case
@@ -41,6 +41,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYyMjMwNDEsMTMxMjY2NzM4NywtMj
-c4NjU0NzU4XX0=
+eyJoaXN0b3J5IjpbMzkwNDExNDMwLC0xNzI2MjIzMDQxLDEzMT
+I2NjczODcsLTI3ODY1NDc1OF19
 -->
