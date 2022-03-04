@@ -3,7 +3,10 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 # Christopher Alderson - Test Portfolio
-## Test Cases
+## Test Plan
+## Test Strategy
+> coverage and quality
+## Test Case
 ### TestRail
 
 ## Functional Tests
@@ -36,5 +39,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODY1NDc1OF19
+eyJoaXN0b3J5IjpbMTMxMjY2NzM4NywtMjc4NjU0NzU4XX0=
 -->
