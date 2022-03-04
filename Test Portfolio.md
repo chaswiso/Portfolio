@@ -4,6 +4,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Christopher Alderson - Test Portfolio
 ## Test Plan
+> everyone has a plan till they get hit in the mouth
+
 ## Test Strategy
 > coverage and quality
 ## Test Case
@@ -39,5 +41,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjY2NzM4NywtMjc4NjU0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE3MjYyMjMwNDEsMTMxMjY2NzM4NywtMj
+c4NjU0NzU4XX0=
 -->
