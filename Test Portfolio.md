@@ -11,7 +11,6 @@
 [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 ## Test Case
 ### TestRail
-enter image description here
 ## Functional Tests
 > Does the software work according to *specifications* and is it behaving in a manner that is *expected*?
 ### Unit Testing
@@ -41,7 +40,7 @@ enter image description here
 ### JIRA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDA2MTQxOSwxNjI3ODA3NjM3LC0xOD
-Q3MjU5MDQ4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3
-Mzg3LC0yNzg2NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTEwNDkwMTQwNTYsMTYyNzgwNzYzNywtMT
+g0NzI1OTA0OCw0MjIwMTc5MDQsLTE3MjYyMjMwNDEsMTMxMjY2
+NzM4NywtMjc4NjU0NzU4XX0=
 -->
