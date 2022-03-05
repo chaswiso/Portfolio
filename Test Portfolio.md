@@ -11,7 +11,7 @@
 [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 ## Test Case
 ### TestRail
-
+![enter image description here](https://github.com/chaswiso/portfolio/blob/main/images/b176db1520b7301593292ff9278f33b6.jpg)
 ## Functional Tests
 > Does the software work according to *specifications* and is it behaving in a manner that is *expected*?
 ### Unit Testing
@@ -42,7 +42,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcyNTkwNDgsNDIyMDE3OTA0LC0xOD
-Q3MjU5MDQ4LC0xNzI2MjIzMDQxLDEzMTI2NjczODcsLTI3ODY1
-NDc1OF19
+eyJoaXN0b3J5IjpbMTYyNzgwNzYzNywtMTg0NzI1OTA0OCw0Mj
+IwMTc5MDQsLTE3MjYyMjMwNDEsMTMxMjY2NzM4NywtMjc4NjU0
+NzU4XX0=
 -->
