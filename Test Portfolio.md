@@ -11,7 +11,7 @@
 [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 ## Test Case
 ### TestRail
-![enter image description here](https://github.com/chaswiso/portfolio/blob/main/images/b176db1520b7301593292ff9278f33b6.jpg)
+enter image description here
 ## Functional Tests
 > Does the software work according to *specifications* and is it behaving in a manner that is *expected*?
 ### Unit Testing
@@ -40,9 +40,8 @@
 > It's critical to log any repeatable error as a defect and provide as much supporting information as possible
 ### JIRA
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzgwNzYzNywtMTg0NzI1OTA0OCw0Mj
-IwMTc5MDQsLTE3MjYyMjMwNDEsMTMxMjY2NzM4NywtMjc4NjU0
-NzU4XX0=
+eyJoaXN0b3J5IjpbMjAzNDA2MTQxOSwxNjI3ODA3NjM3LC0xOD
+Q3MjU5MDQ4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3
+Mzg3LC0yNzg2NTQ3NThdfQ==
 -->
