@@ -100,7 +100,7 @@
 - product owner
 - tech lead 
 ## Dependencies
-> Are there any known constraints on testing?
+> Are there any known **constraints** on testing?
 - builds
 - resources
 - deadlines
@@ -108,7 +108,7 @@
 > Define any known **risks** and possible contingency plans for **mitigation**
 
 ## Tools
-> What testing or automation tools will be used?
+> What testing or automation **tools** will be used?
 - defects
 - automation
 ## Test Deliverables
@@ -124,14 +124,14 @@
 - release notes
 
 ## Approvals
-> Names and titles of all the individuals that must approve this plan
+> Names and titles of all the **individuals** that must approve this plan
 
  - [ ] Engineering
  - [ ] Product
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjkxNjk4MCw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbLTMwMzI5Nzk3Miw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
