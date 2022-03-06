@@ -49,10 +49,13 @@
 
 ## Environment Requirements
 > What branches and build versions will be included in this release and where will they be tested?
-### Development
-### QA
-### Staging
-### Production
+### Branch
+### Version
+ - [ ] Development
+ - [ ] QA
+ - [ ] Staging
+ - [ ] Production
+
 ## Test Schedule
 > Estimate the man hours required for testing tasks and determine the schedule for test completion
  - [ ] Testing MIlestones
@@ -110,8 +113,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDk1MjM5OCw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzY4NDMzMTYsNTQyNDkwOTgyLDUwMTIxND
+g3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgyNjks
+MTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMz
+Y4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
