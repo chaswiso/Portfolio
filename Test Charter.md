@@ -6,11 +6,11 @@
 >
 > If you are testing with a charter, you are testing without the use of test cases and are therefore performing exploratory testing!
 ## Exploratory Testing
-> Testing on the fly without test cases or scenarios to determine how the software behaves. It is clicking around to see what happens, but
+> Testing on the fly without test cases or scenarios to determine how the software behaves. It is clicking around to see what happens, but it is goal oriented testing with some thought and direction.
 - *Identify* a target area, feature or API
 - *Use* specific tools or technologies to test
 - *Discover* specific information from your tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTcxMDQ4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzQzNzI3OTcxLDczMDk5ODExNl19
 -->
