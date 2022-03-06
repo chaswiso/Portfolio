@@ -13,22 +13,17 @@
 ## Test Case
 > This document will describe the scenarios and steps that will be performed to validate functionality and determine an expected outcome.
 > [test case](https://github.com/chaswiso/portfolio/blob/main/Test%20Case.md)
-### TestRail
 
 ## Test Charter
 > This document will describe the agenda for testing and define the primary goal for the session.
 > [test charter](https://github.com/chaswiso/portfolio/blob/main/Test%20Charter.md)
-### Exploratory Testing
-> Testing on the fly without test cases or scenarios to determine how the software behaves
-- *Identify* a target area, feature or API
-- *Use* specific tools or technologies to test
-- *Discover* specific information from your tests
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjQwMDM3MCwyMDYxMjA4Mjc2LC0yMz
-A1Mzg0NzMsLTY4MTE3MzcyMSwtMTA0OTAxNDA1NiwtOTY2Nzcw
-NDgzLC0xNzcxNzE5MTczLC0xMDQ5MDE0MDU2LDE2Mjc4MDc2Mz
-csLTE4NDcyNTkwNDgsNDIyMDE3OTA0LC0xNzI2MjIzMDQxLDEz
-MTI2NjczODcsLTI3ODY1NDc1OF19
+eyJoaXN0b3J5IjpbMzQ4MTA2NDQ3LDIwNjEyMDgyNzYsLTIzMD
+UzODQ3MywtNjgxMTczNzIxLC0xMDQ5MDE0MDU2LC05NjY3NzA0
+ODMsLTE3NzE3MTkxNzMsLTEwNDkwMTQwNTYsMTYyNzgwNzYzNy
+wtMTg0NzI1OTA0OCw0MjIwMTc5MDQsLTE3MjYyMjMwNDEsMTMx
+MjY2NzM4NywtMjc4NjU0NzU4XX0=
 -->
