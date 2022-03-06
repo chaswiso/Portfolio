@@ -11,10 +11,11 @@
 - *Use* specific tools or an approach to test
 - *Discover* specific information from your tests
 ### Identify
+> What area of the application are you targeting for discovery? Is it user authentication or maybe 
 ### Use
 ### Discover
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMzEyNTk1LDM0MzcyNzk3MSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk2NTQyNzQ1NywzNDM3Mjc5NzEsNzMwOT
+k4MTE2XX0=
 -->
