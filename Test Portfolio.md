@@ -4,7 +4,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Christopher Alderson - Test Portfolio
 ## Test Plan
-> everyone has a plan until they get punched in the mouth
+> everyone has a plan until they get punched in the mouth!
+> 
 [test plan](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
 ## Test Strategy
 > coverage and quality
@@ -40,8 +41,8 @@
 ### JIRA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkwMTQwNTYsLTk2Njc3MDQ4MywtMT
-c3MTcxOTE3MywtMTA0OTAxNDA1NiwxNjI3ODA3NjM3LC0xODQ3
-MjU5MDQ4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3Mz
-g3LC0yNzg2NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTY4MTE3MzcyMSwtMTA0OTAxNDA1NiwtOT
+Y2NzcwNDgzLC0xNzcxNzE5MTczLC0xMDQ5MDE0MDU2LDE2Mjc4
+MDc2MzcsLTE4NDcyNTkwNDgsNDIyMDE3OTA0LC0xNzI2MjIzMD
+QxLDEzMTI2NjczODcsLTI3ODY1NDc1OF19
 -->
