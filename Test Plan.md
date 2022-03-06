@@ -95,7 +95,7 @@
 - defect report
 - test summary report 
 ## Impacted Departments
-> Identify the teams and involved parties for this release
+> Identify the **teams** and involved parties for this release
 ### Teams
 - product owner
 - tech lead 
@@ -131,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzU1ODgzNyw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNjEwNDE2MTEsNTQyNDkwOTgyLDUwMT
+IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
+NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
+YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
