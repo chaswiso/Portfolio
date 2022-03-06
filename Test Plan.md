@@ -19,7 +19,10 @@
 - requests
 - responses
 ### Integration and System Testing
+- project team test scenarios
+- merged system test scenarios
 ### Performance and Stress Testing
+
 ### User Acceptance Testing
 ### Automated Regression Testing
 ### Post Deployment Testing
@@ -54,7 +57,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MTI0ODgyLDEzMTYxMzE4MTQsLTIzNj
+eyJoaXN0b3J5IjpbMTUxNjkxMjMxLDEzMTYxMzE4MTQsLTIzNj
 EzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2
 XX0=
 -->
