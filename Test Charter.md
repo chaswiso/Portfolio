@@ -13,10 +13,10 @@
 ### Identify
 > What area of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
 ### Use
-> What testing tools will be used, or better yet - what approach will be implemented? 
+> What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall theme
 ### Discover
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0ODM2Mzc1LDM0MzcyNzk3MSw3MzA5OT
+eyJoaXN0b3J5IjpbNjczOTY2NzQxLDM0MzcyNzk3MSw3MzA5OT
 gxMTZdfQ==
 -->
