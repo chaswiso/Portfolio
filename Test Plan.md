@@ -10,7 +10,7 @@
 ## Scope
 > What will be tested in this release, and specifically what will NOT be tested?
 ## Testing Strategy
-> Perform multiple types of test procedures that give expected test outcomes.
+> Described the overall approach to testing anPerform multiple types of test procedures that give expected test outcomes.
 ### Unit Testing
 - work with developers and identify scenarios to arrange, act and assert
 ### API Testing
@@ -50,8 +50,9 @@
 > Estimate the man hours required for testing tasks and determine the schedule for test completion
 ## Control Procedures
 ## Features to Be Tested
-> Feature functionality included in
+> Feature functionality included in this release
 ## Features NOT to Be Tested
+> Specific functionality NOT included in this release
 ## Test Criteria
 > What could possibly stop testing?
 ### Suspension Criteria
@@ -89,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDk1NzA3Myw1MDEyMTQ4NzQsLTE3Mz
+eyJoaXN0b3J5IjpbMjAyNjk0ODg1Nyw1MDEyMTQ4NzQsLTE3Mz
 c1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4
 MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNz
 MwOTk4MTE2XX0=
