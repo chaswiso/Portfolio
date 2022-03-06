@@ -11,12 +11,12 @@
 - *Use* specific tools or an approach to test
 - *Discover* specific information from your tests
 ### Identify
-> What area of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
+> What specific feature or area of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
 ### Use
 > What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall theme
 ### Discover
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczOTY2NzQxLDM0MzcyNzk3MSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0OTk2NzkxMjAsNjczOTY2NzQxLDM0Mz
+cyNzk3MSw3MzA5OTgxMTZdfQ==
 -->
