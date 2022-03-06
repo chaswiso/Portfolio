@@ -6,6 +6,7 @@
 ## Introduction
 > So... What do we plan on doing
 ## Objectives and Tasks
+> What are the goals of this release and the associated tasks for success
 ### Objectives
 ### Tasks
 ## Scope
@@ -63,7 +64,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzMzOTY2NiwxMzE2MTMxODE0LC0yMz
+eyJoaXN0b3J5IjpbMTA1MzM1ODI2OSwxMzE2MTMxODE0LC0yMz
 YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
 Nl19
 -->
