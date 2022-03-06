@@ -65,13 +65,13 @@
 ## Risks and Assumptions
 ## Tools
 ## Test Deliverables
-> 
+> All the documents or components that have to be developed to support the testing effort
 ## Approvals
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzQxMDYyNiwxMDUzMzU4MjY5LDEzMT
-YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
-MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2NjkwMDkyNzcsMTA1MzM1ODI2OSwxMz
+E2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgx
+NDAzLDczMDk5ODExNl19
 -->
