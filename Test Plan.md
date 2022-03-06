@@ -42,7 +42,7 @@
 - PiAware
 - FlightFeeder
 ## Environment Requirements
-> What branches and build versions will be included in this release?
+> What branches and build versions will be included in this release and where will they be tested?
 ### Development
 ### QA
 ### Staging
@@ -56,6 +56,8 @@
 ### Suspension Criteria
 ### Exit Criteria
 ## Resources, Roles and Responsibilities
+### Human Resources
+### System Resources
 ## Schedules
 ## Impacted Departments
 ## Dependencies
@@ -67,7 +69,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ4NDMyNjksMTA1MzM1ODI2OSwxMz
-E2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgx
-NDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTQ3NzAwODE3OSwxMDUzMzU4MjY5LDEzMT
+YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
+MDMsNzMwOTk4MTE2XX0=
 -->
