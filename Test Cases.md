@@ -15,6 +15,5 @@
 >
 > [EXM - Mobile RDC Auto Credit Exceptions](https://github.com/chaswiso/portfolio/blob/main/images/EXM%20-%20Mobile%20RDC%20Auto%20Credit%20Exceptions%20-%20TestRail.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYxMjMwNjYsMTk2Mjg0NTYxNiwtMT
-MxODkxMzE3MiwtMzQ5MTY0NzY4XX0=
+eyJoaXN0b3J5IjpbLTIwOTYxMjMwNjZdfQ==
 -->
