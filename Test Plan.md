@@ -58,7 +58,11 @@
 ### Exit Criteria
 ## Resources, Roles and Responsibilities
 ### Human Resources
+- testers
 ### System Resources
+- servers
+- test tools
+- 
 ## Schedules
 ## Impacted Departments
 ## Dependencies
@@ -81,7 +85,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzM4MDI4OSwxMDUzMzU4MjY5LDEzMT
-YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
-MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODM1MzEwNjc2LDEwNTMzNTgyNjksMTMxNj
+EzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQw
+Myw3MzA5OTgxMTZdfQ==
 -->
