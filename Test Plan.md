@@ -26,10 +26,12 @@
 ## Control Procedures
 ## Features to Be Tested
 ## Features NOT to Be Tested
+## Resources, Roles and Responsibilities
+## Schedules
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MjMzMjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMTgwMTcxMDQsNzMwOTk4MTE2XX0=
 -->
