@@ -11,9 +11,13 @@
 ## Scope
 > What is on the table and available to be tested, and what specifically will NOT be tested
 ## Testing Strategy
-> Perform multiple types of tests with expected outcomes
+> Perform multiple types of test procedures that give expected test outcomes
 ### Unit Testing
+- work with developers
 ### API Testing
+- endpoints
+- requests
+- responses
 ### Integration and System Testing
 ### Performance and Stress Testing
 ### User Acceptance Testing
@@ -50,7 +54,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM5NjMxOTksMTMxNjEzMTgxNCwtMj
-M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMzM5MTI0ODgyLDEzMTYxMzE4MTQsLTIzNj
+EzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2
+XX0=
 -->
