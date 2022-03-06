@@ -18,12 +18,15 @@
 > This document will describe the agenda for testing and define the primary goal for the session.
 > [test charter](https://github.com/chaswiso/portfolio/blob/main/Test%20Charter.md)
 
+## Defect Tracking
+> This document will describe any errors or unexpected outcomes discovered during testing.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4MTA2NDQ3LDIwNjEyMDgyNzYsLTIzMD
-UzODQ3MywtNjgxMTczNzIxLC0xMDQ5MDE0MDU2LC05NjY3NzA0
-ODMsLTE3NzE3MTkxNzMsLTEwNDkwMTQwNTYsMTYyNzgwNzYzNy
-wtMTg0NzI1OTA0OCw0MjIwMTc5MDQsLTE3MjYyMjMwNDEsMTMx
-MjY2NzM4NywtMjc4NjU0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE5MTA1NTEwNTAsMzQ4MTA2NDQ3LDIwNj
+EyMDgyNzYsLTIzMDUzODQ3MywtNjgxMTczNzIxLC0xMDQ5MDE0
+MDU2LC05NjY3NzA0ODMsLTE3NzE3MTkxNzMsLTEwNDkwMTQwNT
+YsMTYyNzgwNzYzNywtMTg0NzI1OTA0OCw0MjIwMTc5MDQsLTE3
+MjYyMjMwNDEsMTMxMjY2NzM4NywtMjc4NjU0NzU4XX0=
 -->
