@@ -13,15 +13,16 @@
 ### Identify
 > What specific feature or area of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
 ### Use
-> What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall theme to keep the charter focused.
+> What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall theme to keep the charter focused. Some examples are:
 - navigation
 - help files
 - security
 - error checking
 - money movement
+- social networks
 ### Discover
-
+> So what did you find out?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkwMzQ1MDMsNjczOTY2NzQxLDM0Mz
-cyNzk3MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjk2ODg0OTgxLDY3Mzk2Njc0MSwzNDM3Mj
+c5NzEsNzMwOTk4MTE2XX0=
 -->
