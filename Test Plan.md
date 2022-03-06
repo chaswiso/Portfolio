@@ -89,7 +89,11 @@
 - network
 
 ## Schedules
-
+> What is the timeline for major deliverables?
+- test plan
+- test cases
+- defect report
+- test summary report 
 ## Impacted Departments
 
 ## Dependencies
@@ -117,7 +121,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODE1MzY2NSw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbLTExMDU5NTEyNSw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
