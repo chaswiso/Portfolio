@@ -5,10 +5,13 @@
 > This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities for the described project or release.
 ## Introduction
 > Brief summary of the release or product being tested.
+
 ## Objectives
 > What are the test objectives and goals of this release?
+
 ## Scope
 > What functionality is new or changed and will be tested in this release, and specifically what will NOT be tested?
+
 ## Testing Strategy
 > Describe the overall approach to testing and perform multiple types of test procedures that give expected test outcomes.
 ### Unit Testing
@@ -30,6 +33,7 @@
 - validate legacy test scenarios work properly
 ### Post Deployment Testing
 - production checkout and wheels up!
+
 ## Hardware Requirements
 > What physical devices will be required to test this release?
 ### Desktop
@@ -40,6 +44,7 @@
 ### Receivers
 - PiAware
 - FlightFeeder
+
 ## Environment Requirements
 > What branches and build versions will be included in this release and where will they be tested?
 ### Development
@@ -103,8 +108,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3ODg1NjIwLDU0MjQ5MDk4Miw1MDEyMT
-Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
-LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
-M2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI3MjA4Mjg1OCw1NDI0OTA5ODIsNTAxMj
+E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
+OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
+EzNjgxNDAzLDczMDk5ODExNl19
 -->
