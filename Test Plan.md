@@ -15,7 +15,7 @@
 ### Excluded
 
 ## Testing Strategy
-> Describe the overall approach to testing and perform multiple types of test procedures that give expected test outcomes.
+> Describe the overall approach to testing and multiple types of test procedures that give expected test outcomes.
 ### Unit Testing
 - work with developers and identify scenarios to arrange, act and assert
 ### API Testing
@@ -131,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzI5Nzk3Miw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1ODI3MTg4NjcsNTQyNDkwOTgyLDUwMT
+IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
+NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
+YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
