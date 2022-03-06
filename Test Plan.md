@@ -16,9 +16,16 @@
 ### Automated Regression Testing
 ### Beta Testing
 ## Hardware Requirements
+## Environment Requirements
+### Desktop
+- Browsers
+### Mobile
+- iOS
+- Android
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI5NzI0NTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA1NTAyMjA4LDczMDk5ODExNl19
 -->
