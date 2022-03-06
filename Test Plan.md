@@ -3,10 +3,12 @@
 
 # Test Plan
 ## Introduction
+> So... What do we plan on doing
 ## Objectives and Tasks
 ### Objectives
 ### Tasks
 ## Scope
+> We're going to limit our testing to this
 ## Testing Strategy
 ### Unit Testing
 ### API Testing
@@ -14,7 +16,7 @@
 ### Performance and Stress Testing
 ### User Acceptance Testing
 ### Automated Regression Testing
-### Deployment
+### Post Deployment Testing
 ## Hardware Requirements
 ### Desktop
 - Browsers
@@ -44,6 +46,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA3ODUwODQsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
+M2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
