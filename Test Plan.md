@@ -8,9 +8,9 @@
 ## Objectives
 > What are the test objectives and goals of this release?
 ## Scope
-> What will be tested in this release, and specifically what will NOT be tested?
+> What functionality is new or changed and will be tested in this release, and specifically what will NOT be tested?
 ## Testing Strategy
-> Described the overall approach to testing anPerform multiple types of test procedures that give expected test outcomes.
+> Describe the overall approach to testing and perform multiple types of test procedures that give expected test outcomes.
 ### Unit Testing
 - work with developers and identify scenarios to arrange, act and assert
 ### API Testing
@@ -90,8 +90,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjk0ODg1Nyw1MDEyMTQ4NzQsLTE3Mz
-c1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4
-MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTQyNDkwOTgyLDUwMTIxNDg3NCwtMTczNz
+U4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgx
+NCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3Mz
+A5OTgxMTZdfQ==
 -->
