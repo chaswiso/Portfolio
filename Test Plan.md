@@ -28,10 +28,14 @@
 ## Features NOT to Be Tested
 ## Resources, Roles and Responsibilities
 ## Schedules
-
+## Impacted Departments
+## Dependencies
+## Risks and Assumptions
+## Tools
+## Approvals
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgwMTcxMDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
