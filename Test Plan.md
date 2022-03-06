@@ -48,6 +48,7 @@
 ### Production
 ## Test Schedule
 > Estimate the man hours required for testing tasks and determine the schedule for test completion
+- testing milestones
 ## Control Procedures
 ## Features to Be Tested
 > Feature functionality included in this release
@@ -90,8 +91,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNDkwOTgyLDUwMTIxNDg3NCwtMTczNz
-U4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgx
-NCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTY3NTUxNzAsNTQyNDkwOTgyLDUwMT
+IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
+NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
+YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
