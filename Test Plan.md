@@ -4,7 +4,7 @@
 # Test Plan
 > This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities for the described project or release.”
 ## Introduction
-> So... What do we plan on doing
+> Brief summary of the release or product being tested
 ## Objectives and Tasks
 > What are the goals of this release and the associated tasks for success
 ### Objectives
@@ -89,7 +89,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDA4MjQ5MSwxNTE3MzE3MDY1LDEwNT
-MzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2
-NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMD
+UzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEy
+NjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
