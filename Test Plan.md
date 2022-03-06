@@ -48,7 +48,7 @@
 - FlightFeeder
 
 ## Environment Requirements
-> What **branch** and **build versions** will be included in this release and **where** will they be tested?
+> What **branch** and **build version** will be included in this release and **where** will it be tested?
 ### Branch
 ### Version
  - [ ] Development
@@ -131,7 +131,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjM4MzMxNSw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbMTU0NzU1ODgzNyw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
