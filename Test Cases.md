@@ -10,8 +10,8 @@
 > 
 > [User Management Report - MFA Preferences](https://github.com/chaswiso/portfolio/blob/main/images/User%20Management%20Report%20-%20MFA%20Preferences%20-%20TestRail.pdf)
 >
-> 
+> [EXM - Mobile RDC Auto Credit Exceptions](https://github.com/chaswiso/portfolio/blob/main/images/EXM%20-%20Mobile%20RDC%20Auto%20Credit%20Exceptions%20-%20TestRail.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE2NTE3ODQsMTk2Mjg0NTYxNiwtMT
-MxODkxMzE3MiwtMzQ5MTY0NzY4XX0=
+eyJoaXN0b3J5IjpbMTk2Mjg0NTYxNiwxOTYyODQ1NjE2LC0xMz
+E4OTEzMTcyLC0zNDkxNjQ3NjhdfQ==
 -->
