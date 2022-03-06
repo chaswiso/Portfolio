@@ -11,7 +11,7 @@
 > [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 
 ## Test Case
-> This document will describe the scenarios and steps that will be performed to validate functionality in the release
+> This document will describe the scenarios and steps that will be performed to validate functionality and determine an expected outcome
 > [test case](https://github.com/chaswiso/portfolio/blob/main/Test%20Case.md)
 ### TestRail
 
@@ -26,7 +26,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTQ5ODEzMiwtMjMwNTM4NDczLC02OD
+eyJoaXN0b3J5IjpbMjA2MTIwODI3NiwtMjMwNTM4NDczLC02OD
 ExNzM3MjEsLTEwNDkwMTQwNTYsLTk2Njc3MDQ4MywtMTc3MTcx
 OTE3MywtMTA0OTAxNDA1NiwxNjI3ODA3NjM3LC0xODQ3MjU5MD
 Q4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3Mzg3LC0y
