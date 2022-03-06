@@ -9,7 +9,7 @@
 ### Objectives
 ### Tasks
 ## Scope
-> What is on the table and available to be tested, and what specifically will NOT be tested
+> What is available in this release for testing, and what specifically will NOT be tested
 ## Testing Strategy
 > Perform multiple types of test procedures that give expected test outcomes
 ### Unit Testing
@@ -29,7 +29,7 @@
 ### Automated Regression Testing
 - validate legacy test scenarios work properly
 ### Post Deployment Testing
-- production testing and wheels up!
+- production checkout and wheels up!
 ## Hardware Requirements
 > What physical devices will be required to test this release?
 ### Desktop
@@ -63,7 +63,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgwOTYyNjMsMTMxNjEzMTgxNCwtMj
-M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTI3NzMzOTY2NiwxMzE2MTMxODE0LC0yMz
+YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
+Nl19
 -->
