@@ -29,7 +29,7 @@
 ### Automated Regression Testing
 - validate legacy test scenarios work properly
 ### Post Deployment Testing
-- 
+- production testing and wheels up!
 ## Hardware Requirements
 ### Desktop
 - Browsers
@@ -61,7 +61,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ3MTkxODIsMTMxNjEzMTgxNCwtMj
-M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTk5MTAxNzU3MCwxMzE2MTMxODE0LC0yMz
+YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
+Nl19
 -->
