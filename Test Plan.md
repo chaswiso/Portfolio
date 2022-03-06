@@ -10,7 +10,6 @@
 ### Tasks
 ## Scope
 > We're going to limit our testing to this
-## Test Criteria
 ## Testing Strategy
 ### Unit Testing
 ### API Testing
@@ -37,17 +36,19 @@
 ## Control Procedures
 ## Features to Be Tested
 ## Features NOT to Be Tested
+## Test Criteria
 ## Resources, Roles and Responsibilities
 ## Schedules
 ## Impacted Departments
 ## Dependencies
 ## Risks and Assumptions
 ## Tools
+## Test Deliverables
 ## Approvals
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM1MDgyOTYsLTIzNjEzNjk1MywxNT
-g1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1OD
+UxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
