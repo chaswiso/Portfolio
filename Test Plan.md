@@ -11,6 +11,8 @@
 
 ## Scope
 > What functionality is new or changed and will be tested in this release, and specifically what will NOT be tested?
+### Included
+### Excluded
 
 ## Testing Strategy
 > Describe the overall approach to testing and perform multiple types of test procedures that give expected test outcomes.
@@ -108,7 +110,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjA4Mjg1OCw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbMTg4NDk1MjM5OCw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
