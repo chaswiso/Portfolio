@@ -65,13 +65,13 @@
 - problem reporting
 - change requests
 ## Features to Be Tested
-> Feature functionality **included in this release
+> Feature functionality **included** in this release
 
 ## Features NOT to Be Tested
-> Specific functionality NOT included in this release
+> Specific functionality **NOT included** in this release
 
 ## Test Criteria
-> What conditions would stop testing?
+> What conditions would **stop** testing?
 ### Suspension Criteria
 - fail rate
 ### Exit Criteria
@@ -83,6 +83,10 @@
 - testers
 - roles
 - responsibilities
+| tester | role | respo |
+|--|--|
+|  |  |
+
 ### System Resources
 - servers
 - test tools
@@ -131,7 +135,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTg5ODk2OSw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbMTQxOTA0MzcwMSw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
