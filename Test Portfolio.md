@@ -13,7 +13,7 @@
 ## Test Case
 ### TestRail
 ## Functional Tests
-> Does the software work according to *specifications* and is it behaving in a manner that is *expected*?
+> Does the software work according to **specifications** and is it behaving in a manner that is **expected**?
 ### Unit Testing
 > Work with the DEVs to cover some scenarios up front at build time
 - Arrange
@@ -41,8 +41,9 @@
 ### JIRA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTE3MzcyMSwtMTA0OTAxNDA1NiwtOT
-Y2NzcwNDgzLC0xNzcxNzE5MTczLC0xMDQ5MDE0MDU2LDE2Mjc4
-MDc2MzcsLTE4NDcyNTkwNDgsNDIyMDE3OTA0LC0xNzI2MjIzMD
-QxLDEzMTI2NjczODcsLTI3ODY1NDc1OF19
+eyJoaXN0b3J5IjpbLTIzMDUzODQ3MywtNjgxMTczNzIxLC0xMD
+Q5MDE0MDU2LC05NjY3NzA0ODMsLTE3NzE3MTkxNzMsLTEwNDkw
+MTQwNTYsMTYyNzgwNzYzNywtMTg0NzI1OTA0OCw0MjIwMTc5MD
+QsLTE3MjYyMjMwNDEsMTMxMjY2NzM4NywtMjc4NjU0NzU4XX0=
+
 -->
