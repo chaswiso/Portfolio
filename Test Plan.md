@@ -105,7 +105,7 @@
 - resources
 - deadlines
 ## Risks and Assumptions
-> Define any known risks and possible contingency plans for mitigation
+> Define any known **risks** and possible contingency plans for mitigation
 
 ## Tools
 > What testing or automation tools will be used?
@@ -131,7 +131,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjY4NTUwNCw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbMTQyMTcwODA5Niw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
