@@ -21,6 +21,7 @@
 ### Mobile
 - iOS
 - Android
+### Receivers
 - 
 ## Environment Requirements
 ### Development
@@ -42,6 +43,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc0ODAxODIsMTYxMzY4MTQwMyw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMD
+k5ODExNl19
 -->
