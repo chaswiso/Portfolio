@@ -53,6 +53,8 @@
 ## Features NOT to Be Tested
 ## Test Criteria
 > What could possibly stop testing?
+### Suspension Criteria
+### Exit Criteria
 ## Resources, Roles and Responsibilities
 ## Schedules
 ## Impacted Departments
@@ -65,7 +67,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUxMTMxMjYsMTA1MzM1ODI2OSwxMz
+eyJoaXN0b3J5IjpbLTE5NDQ4NDMyNjksMTA1MzM1ODI2OSwxMz
 E2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgx
 NDAzLDczMDk5ODExNl19
 -->
