@@ -2,7 +2,6 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 # Test Plan
-
 > This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities for the described project or release.
 ## Introduction
 > Brief summary of the release or product being tested.
@@ -50,13 +49,15 @@
 ## Test Schedule
 > Estimate the man hours required for testing tasks and determine the schedule for test completion
  - [ ] Testing MIlestones
-> asdasdas
 
 ## Control Procedures
+
 ## Features to Be Tested
 > Feature functionality included in this release
+
 ## Features NOT to Be Tested
 > Specific functionality NOT included in this release
+
 ## Test Criteria
 > What could possibly stop testing?
 ### Suspension Criteria
@@ -64,6 +65,7 @@
 ### Exit Criteria
 - run rate
 - pass rate
+
 ## Resources, Roles and Responsibilities
 ### Human Resources
 - testers
@@ -71,12 +73,18 @@
 - servers
 - test tools
 - network
+
 ## Schedules
+
 ## Impacted Departments
+
 ## Dependencies
+
 ## Risks and Assumptions
 > Define any known risks and possible solutions for mitigation
+
 ## Tools
+
 ## Test Deliverables
 > All the documents or components that have to be developed to support the testing effort
 - test plan
@@ -88,14 +96,15 @@
 - defect reports
 - any guidelines
 - release notes
+
 ## Approvals
 > Signoffs when testing is completed
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzkzNjYxOCw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzY3ODg1NjIwLDU0MjQ5MDk4Miw1MDEyMT
+Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
+LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
+M2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
