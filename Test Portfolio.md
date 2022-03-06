@@ -16,6 +16,8 @@
 ### TestRail
 
 ## Test Charter
+> blah blah
+> 
 ### Exploratory Testing
 > Testing on the fly without test cases or scenarios to determine how the software behaves
 - *Identify* a target area, feature or API
@@ -24,9 +26,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzMzI5MTIsLTIzMDUzODQ3MywtNj
-gxMTczNzIxLC0xMDQ5MDE0MDU2LC05NjY3NzA0ODMsLTE3NzE3
-MTkxNzMsLTEwNDkwMTQwNTYsMTYyNzgwNzYzNywtMTg0NzI1OT
-A0OCw0MjIwMTc5MDQsLTE3MjYyMjMwNDEsMTMxMjY2NzM4Nywt
-Mjc4NjU0NzU4XX0=
+eyJoaXN0b3J5IjpbLTQzMDIzOTg4OCwtMjMwNTM4NDczLC02OD
+ExNzM3MjEsLTEwNDkwMTQwNTYsLTk2Njc3MDQ4MywtMTc3MTcx
+OTE3MywtMTA0OTAxNDA1NiwxNjI3ODA3NjM3LC0xODQ3MjU5MD
+Q4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3Mzg3LC0y
+Nzg2NTQ3NThdfQ==
 -->
