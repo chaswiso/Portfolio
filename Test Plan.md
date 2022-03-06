@@ -8,7 +8,7 @@
 ## Objectives
 > What are the test objectives and goals of this release?
 ## Scope
-> What is available in this release for testing, and what specifically will NOT be tested
+> What will be tested in this release, and what specifically will NOT be tested?
 ## Testing Strategy
 > Perform multiple types of test procedures that give expected test outcomes
 ### Unit Testing
@@ -87,8 +87,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcyMjE1NjcsLTE3Mzc1ODA4NzIsMT
-UxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEz
-Njk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbNTAxMjE0ODc0LC0xNzM3NTgwODcyLDE1MT
+czMTcwNjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC0yMzYxMzY5
+NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODExNl19
 -->
