@@ -68,14 +68,20 @@
 > All the documents or components that have to be developed to support the testing effort
 - test plan
 - test cases
-- 
+- test scripts
+- test data
+- logs
+- test reports
+- defect reports
+- any guidelines
+- release notes
 ## Approvals
 > Signoffs when testing is completed
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQ4NDQ2NCwxMDUzMzU4MjY5LDEzMT
+eyJoaXN0b3J5IjpbMTI3MzM4MDI4OSwxMDUzMzU4MjY5LDEzMT
 YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
 MDMsNzMwOTk4MTE2XX0=
 -->
