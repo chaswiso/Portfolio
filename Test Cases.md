@@ -9,7 +9,9 @@
 > [Audit Report - Customer Activity](https://github.com/chaswiso/portfolio/blob/main/images/Audit%20Report%20-%20Customer%20Activity%20-%20TestRail.pdf)
 > 
 > [User Management Report - MFA Preferences](https://github.com/chaswiso/portfolio/blob/main/images/User%20Management%20Report%20-%20MFA%20Preferences%20-%20TestRail.pdf)
+>
+> [EXM - Mobile RDC Auto Credit Exceptions](https://github.com/chaswiso/portfolio/blob/main/images/EXM%20-%20Mobile%20RDC%20Auto%20Credit%20Exceptions%20-%20TestRail.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDI4MzUyNCwtMTMxODkxMzE3MiwtMz
+eyJoaXN0b3J5IjpbMTk2Mjg0NTYxNiwtMTMxODkxMzE3MiwtMz
 Q5MTY0NzY4XX0=
 -->
