@@ -97,9 +97,12 @@
 ## Impacted Departments
 > Who are the Product Owners and Tech Leads of the involved scrum teams?
 ### Teams
--  
+- product owner
+- tech lead 
 ## Dependencies
-
+> Are there any known constraints on testing?
+- resources
+- deadlines
 ## Risks and Assumptions
 > Define any known risks and possible solutions for mitigation
 
@@ -123,8 +126,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwODc3MTkzLDU0MjQ5MDk4Miw1MDEyMT
-Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
-LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
-M2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMjU4MDY1MDUsNTQyNDkwOTgyLDUwMT
+IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
+NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
+YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
