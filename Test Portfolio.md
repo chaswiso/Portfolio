@@ -10,9 +10,9 @@
 > This document will describe the overall **approach** to testing and multiple **types** of test procedures that give expected test outcomes.
 > [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 
-## Test Case
+## Test Cases
 > This document will describe the scenarios and steps that will be performed to validate functionality and determine an expected outcome.
-> [test case](https://github.com/chaswiso/portfolio/blob/main/Test%20Case.md)
+> [test cases](https://github.com/chaswiso/portfolio/blob/main/Test%20Cases.md)
 
 ## Test Charter
 > This document will describe the agenda for testing and define the primary goal for the session.
@@ -25,9 +25,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc0NzM4NjIsMzQ4MTA2NDQ3LDIwNj
-EyMDgyNzYsLTIzMDUzODQ3MywtNjgxMTczNzIxLC0xMDQ5MDE0
-MDU2LC05NjY3NzA0ODMsLTE3NzE3MTkxNzMsLTEwNDkwMTQwNT
-YsMTYyNzgwNzYzNywtMTg0NzI1OTA0OCw0MjIwMTc5MDQsLTE3
-MjYyMjMwNDEsMTMxMjY2NzM4NywtMjc4NjU0NzU4XX0=
+eyJoaXN0b3J5IjpbMTY1MDI4MDg1NywzNDgxMDY0NDcsMjA2MT
+IwODI3NiwtMjMwNTM4NDczLC02ODExNzM3MjEsLTEwNDkwMTQw
+NTYsLTk2Njc3MDQ4MywtMTc3MTcxOTE3MywtMTA0OTAxNDA1Ni
+wxNjI3ODA3NjM3LC0xODQ3MjU5MDQ4LDQyMjAxNzkwNCwtMTcy
+NjIyMzA0MSwxMzEyNjY3Mzg3LC0yNzg2NTQ3NThdfQ==
 -->
