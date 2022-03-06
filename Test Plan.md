@@ -83,23 +83,19 @@
 - testers
 - roles
 - responsibilities
-| tester | role | responsibility |
-|--------|------|-----------------|
-|            |        |                         |
-
 ### System Resources
 - servers
 - test tools
 - network
 
 ## Schedules
-> What is the timeline for major deliverables?
+> What is the **timeline** for major deliverables?
 - test plan
 - test cases
 - defect report
 - test summary report 
 ## Impacted Departments
-> Who are the Product Owners and Tech Leads of the involved scrum teams?
+> Identify the teams and involved parties for this release
 ### Teams
 - product owner
 - tech lead 
@@ -135,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MDczMDczLDU0MjQ5MDk4Miw1MDEyMT
-Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
-LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
-M2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU0NjkxNjk4MCw1NDI0OTA5ODIsNTAxMj
+E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
+OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
+EzNjgxNDAzLDczMDk5ODExNl19
 -->
