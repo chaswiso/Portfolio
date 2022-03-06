@@ -25,7 +25,7 @@
 - permissions
 ### Integration and System Testing
 - project team test scenarios
-- merged system test scenarios
+- main system test scenarios
 ### Performance and Stress Testing
 - performant queries
 - user load testing
@@ -37,7 +37,7 @@
 - production checkout and wheels up!
 
 ## Hardware Requirements
-> What physical devices will be required to test this release?
+> What **physical devices** will be required to test this release?
 ### Desktop
 - Browsers
 ### Mobile
@@ -48,7 +48,7 @@
 - FlightFeeder
 
 ## Environment Requirements
-> What branches and build versions will be included in this release and where will they be tested?
+> What **branch** and build versions will be included in this release and **where** will they be tested?
 ### Branch
 ### Version
  - [ ] Development
@@ -131,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTEyMDE4NjgsNTQyNDkwOTgyLDUwMT
-IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
-NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
-YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA3MjYwMzQxNyw1NDI0OTA5ODIsNTAxMj
+E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
+OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
+EzNjgxNDAzLDczMDk5ODExNl19
 -->
