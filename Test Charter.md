@@ -13,7 +13,7 @@
 ### Identify
 > What specific feature or area of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
 ### Use
-> What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall theme to keep the charter focused. Some examples are:
+> What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall **theme** to keep the charter focused. Some examples are:
 - navigation
 - help files
 - security
@@ -32,9 +32,9 @@
 - Outstanding Questions
 - Stop Time
 - Peripheral Testing
-> Examples:
+> **Examples**:
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMjA0OTAsNjczOTY2NzQxLDM0MzcyNz
-k3MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ1MTQ1NjcyNiw2NzM5NjY3NDEsMzQzNz
+I3OTcxLDczMDk5ODExNl19
 -->
