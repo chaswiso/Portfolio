@@ -12,7 +12,7 @@
 
 ## Test Case
 > Scenarios and steps
-> [enter link description here](https://github.com/chaswiso/portfolio/blob/main/Test%20Case.md)
+> [test case](https://github.com/chaswiso/portfolio/blob/main/Test%20Case.md)
 ### TestRail
 
 ## Test Charter
@@ -24,7 +24,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5NjExMjQsLTIzMDUzODQ3MywtNj
+eyJoaXN0b3J5IjpbLTE4MjAzMzI5MTIsLTIzMDUzODQ3MywtNj
 gxMTczNzIxLC0xMDQ5MDE0MDU2LC05NjY3NzA0ODMsLTE3NzE3
 MTkxNzMsLTEwNDkwMTQwNTYsMTYyNzgwNzYzNywtMTg0NzI1OT
 A0OCw0MjIwMTc5MDQsLTE3MjYyMjMwNDEsMTMxMjY2NzM4Nywt
