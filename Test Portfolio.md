@@ -16,7 +16,7 @@
 ### TestRail
 
 ## Test Charter
-> blah blah
+> This document will describe the agenda for testing and define the primary goal for the session
 > [test charter](https://github.com/chaswiso/portfolio/blob/main/Test%20Charter.md)
 ### Exploratory Testing
 > Testing on the fly without test cases or scenarios to determine how the software behaves
@@ -26,9 +26,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTIwODI3NiwtMjMwNTM4NDczLC02OD
-ExNzM3MjEsLTEwNDkwMTQwNTYsLTk2Njc3MDQ4MywtMTc3MTcx
-OTE3MywtMTA0OTAxNDA1NiwxNjI3ODA3NjM3LC0xODQ3MjU5MD
-Q4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3Mzg3LC0y
-Nzg2NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbMTAyNzYwNjMxMCwyMDYxMjA4Mjc2LC0yMz
+A1Mzg0NzMsLTY4MTE3MzcyMSwtMTA0OTAxNDA1NiwtOTY2Nzcw
+NDgzLC0xNzcxNzE5MTczLC0xMDQ5MDE0MDU2LDE2Mjc4MDc2Mz
+csLTE4NDcyNTkwNDgsNDIyMDE3OTA0LC0xNzI2MjIzMDQxLDEz
+MTI2NjczODcsLTI3ODY1NDc1OF19
 -->
