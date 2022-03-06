@@ -8,9 +8,13 @@
 ## Exploratory Testing
 > Testing on the fly without test cases or scenarios to determine how the software behaves. It is clicking around to see what happens, but it is goal oriented testing with some thought and direction.
 - *Identify* a target area, feature or API
-- *Use* specific tools or technologies to test
+- *Use* specific tools or an approach to test
 - *Discover* specific information from your tests
+### Identify
+### Use
+### Discover
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNzI3OTcxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjQyMzEyNTk1LDM0MzcyNzk3MSw3MzA5OT
+gxMTZdfQ==
 -->
