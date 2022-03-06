@@ -4,13 +4,11 @@
 # Christopher Alderson - Test Portfolio
 ## Test Plan
 > everyone has a plan until they get punched in the mouth!
-> 
-[test plan](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
+> [test plan](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
 
 ## Test Strategy
 > coverage and quality
->
-[test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
+> [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 
 ## Test Case
 ### TestRail
@@ -24,9 +22,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI1NzIwNTcsLTIzMDUzODQ3MywtNj
-gxMTczNzIxLC0xMDQ5MDE0MDU2LC05NjY3NzA0ODMsLTE3NzE3
-MTkxNzMsLTEwNDkwMTQwNTYsMTYyNzgwNzYzNywtMTg0NzI1OT
-A0OCw0MjIwMTc5MDQsLTE3MjYyMjMwNDEsMTMxMjY2NzM4Nywt
-Mjc4NjU0NzU4XX0=
+eyJoaXN0b3J5IjpbMTg4MTYzOTczLC0yMzA1Mzg0NzMsLTY4MT
+E3MzcyMSwtMTA0OTAxNDA1NiwtOTY2NzcwNDgzLC0xNzcxNzE5
+MTczLC0xMDQ5MDE0MDU2LDE2Mjc4MDc2MzcsLTE4NDcyNTkwND
+gsNDIyMDE3OTA0LC0xNzI2MjIzMDQxLDEzMTI2NjczODcsLTI3
+ODY1NDc1OF19
 -->
