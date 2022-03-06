@@ -95,7 +95,9 @@
 - defect report
 - test summary report 
 ## Impacted Departments
-
+> Who are the Product Owners and Tech Leads of the involved scrum teams?
+### Teams
+-  
 ## Dependencies
 
 ## Risks and Assumptions
@@ -121,8 +123,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5NTEyNSw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzQwODc3MTkzLDU0MjQ5MDk4Miw1MDEyMT
+Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
+LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
+M2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
