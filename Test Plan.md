@@ -55,6 +55,7 @@
 ## Test Criteria
 > What could possibly stop testing?
 ### Suspension Criteria
+- fail rate
 ### Exit Criteria
 - run rate
 - pass rate
@@ -87,7 +88,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzMzNjkxNjIsMTA1MzM1ODI2OSwxMz
-E2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgx
-NDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTUxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMT
+YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
+MDMsNzMwOTk4MTE2XX0=
 -->
