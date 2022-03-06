@@ -3,7 +3,7 @@
 
 # Christopher Alderson - Test Portfolio
 ## Test Plan
-> everyone has a plan until they get punched in the mouth!
+> This document will describe the scope, approach, resources, and schedule of _**FlightAware**_ intended test activities for the described project or release.
 > [test plan](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
 
 ## Test Strategy
@@ -17,7 +17,7 @@
 
 ## Test Charter
 > blah blah
-> 
+> [test charter](https://github.com/chaswiso/portfolio/blob/main/Test%20Charter.md)
 ### Exploratory Testing
 > Testing on the fly without test cases or scenarios to determine how the software behaves
 - *Identify* a target area, feature or API
@@ -26,9 +26,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDIzOTg4OCwtMjMwNTM4NDczLC02OD
-ExNzM3MjEsLTEwNDkwMTQwNTYsLTk2Njc3MDQ4MywtMTc3MTcx
-OTE3MywtMTA0OTAxNDA1NiwxNjI3ODA3NjM3LC0xODQ3MjU5MD
-Q4LDQyMjAxNzkwNCwtMTcyNjIyMzA0MSwxMzEyNjY3Mzg3LC0y
-Nzg2NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbNzQ1OTYzMDkxLC0yMzA1Mzg0NzMsLTY4MT
+E3MzcyMSwtMTA0OTAxNDA1NiwtOTY2NzcwNDgzLC0xNzcxNzE5
+MTczLC0xMDQ5MDE0MDU2LDE2Mjc4MDc2MzcsLTE4NDcyNTkwND
+gsNDIyMDE3OTA0LC0xNzI2MjIzMDQxLDEzMTI2NjczODcsLTI3
+ODY1NDc1OF19
 -->
