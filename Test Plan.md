@@ -101,10 +101,11 @@
 - tech lead 
 ## Dependencies
 > Are there any known constraints on testing?
+- builds
 - resources
 - deadlines
 ## Risks and Assumptions
-> Define any known risks and possible solutions for mitigation
+> Define any known risks and possible contingency plans for mitigation
 
 ## Tools
 
@@ -126,8 +127,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU4MDY1MDUsNTQyNDkwOTgyLDUwMT
-IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
-NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
-YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDA0MjcwOCw1NDI0OTA5ODIsNTAxMj
+E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
+OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
+EzNjgxNDAzLDczMDk5ODExNl19
 -->
