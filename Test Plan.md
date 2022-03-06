@@ -50,6 +50,7 @@
 > Estimate the man hours required for testing tasks and determine the schedule for test completion
 ## Control Procedures
 ## Features to Be Tested
+> Feature functionality included in
 ## Features NOT to Be Tested
 ## Test Criteria
 > What could possibly stop testing?
@@ -88,7 +89,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjY2ODQ3MSw1MDEyMTQ4NzQsLTE3Mz
+eyJoaXN0b3J5IjpbLTg3MDk1NzA3Myw1MDEyMTQ4NzQsLTE3Mz
 c1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4
 MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNz
 MwOTk4MTE2XX0=
