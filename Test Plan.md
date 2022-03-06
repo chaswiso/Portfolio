@@ -11,6 +11,7 @@
 ## Scope
 > What is on the table and available to be tested, and what specifically will NOT be tested
 ## Testing Strategy
+> Understaning the acceptance criteria
 ### Unit Testing
 ### API Testing
 ### Integration and System Testing
@@ -49,7 +50,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTk1MTc4OCwxMzE2MTMxODE0LC0yMz
+eyJoaXN0b3J5IjpbMTU5MjM0MTczOSwxMzE2MTMxODE0LC0yMz
 YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
 Nl19
 -->
