@@ -11,7 +11,7 @@
 ## Scope
 > What is on the table and available to be tested, and what specifically will NOT be tested
 ## Testing Strategy
-> Understaning the acceptance criteria
+> Perform multiple types of tests with expected outcomes
 ### Unit Testing
 ### API Testing
 ### Integration and System Testing
@@ -50,7 +50,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjM0MTczOSwxMzE2MTMxODE0LC0yMz
-YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE1NjM5NjMxOTksMTMxNjEzMTgxNCwtMj
+M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
+MTZdfQ==
 -->
