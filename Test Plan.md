@@ -9,7 +9,7 @@
 ### Objectives
 ### Tasks
 ## Scope
-> We're going to limit our testing to this
+> What is on the table and available to be tested, and what is 
 ## Testing Strategy
 ### Unit Testing
 ### API Testing
@@ -49,6 +49,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1OD
-UxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjcyMDc1ODMsMTMxNjEzMTgxNCwtMj
+M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
+MTZdfQ==
 -->
