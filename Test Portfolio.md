@@ -7,11 +7,11 @@
 > [test plan](https://github.com/chaswiso/portfolio/blob/main/Test%20Plan.md)
 
 ## Test Strategy
-> coverage and quality
+> This document will describe the overall **approach** to testing and multiple **types** of test procedures that give expected test outcomes.
 > [test strategy](https://github.com/chaswiso/portfolio/blob/main/Test%20Strategy.md)
 
 ## Test Case
-> Scenarios and steps
+> This document will descriScenarios and steps
 > [test case](https://github.com/chaswiso/portfolio/blob/main/Test%20Case.md)
 ### TestRail
 
@@ -26,7 +26,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1OTYzMDkxLC0yMzA1Mzg0NzMsLTY4MT
+eyJoaXN0b3J5IjpbNzEzMjM2NzM5LC0yMzA1Mzg0NzMsLTY4MT
 E3MzcyMSwtMTA0OTAxNDA1NiwtOTY2NzcwNDgzLC0xNzcxNzE5
 MTczLC0xMDQ5MDE0MDU2LDE2Mjc4MDc2MzcsLTE4NDcyNTkwND
 gsNDIyMDE3OTA0LC0xNzI2MjIzMDQxLDEzMTI2NjczODcsLTI3
