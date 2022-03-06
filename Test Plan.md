@@ -16,12 +16,17 @@
 ### Automated Regression Testing
 ### Deployment
 ## Hardware Requirements
-## Environment Requirements
 ### Desktop
 - Browsers
 ### Mobile
 - iOS
 - Android
+- 
+## Environment Requirements
+### Development
+### QA
+### Staging
+### Production
 ## Test Schedule
 ## Control Procedures
 ## Features to Be Tested
@@ -37,6 +42,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzA1MjMyLDE2MTM2ODE0MDMsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NTc0ODAxODIsMTYxMzY4MTQwMyw3Mz
+A5OTgxMTZdfQ==
 -->
