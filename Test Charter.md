@@ -21,8 +21,8 @@
 - money movement
 - social networks
 ### Discover
-> So what did you find out?
+> So what did you find out? Were there 404 errors? Any confusing or misleading error messages?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2ODg0OTgxLDY3Mzk2Njc0MSwzNDM3Mj
-c5NzEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2NzExNTU0MjksNjczOTY2NzQxLDM0Mz
+cyNzk3MSw3MzA5OTgxMTZdfQ==
 -->
