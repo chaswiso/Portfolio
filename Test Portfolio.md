@@ -20,11 +20,12 @@
 
 ## Defect Tracking
 > This document will describe any errors or unexpected outcomes discovered during testing.
+> [defect tracking](https://github.com/chaswiso/portfolio/blob/main/Defect%20Tracking.md)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA1NTEwNTAsMzQ4MTA2NDQ3LDIwNj
+eyJoaXN0b3J5IjpbLTE2NDc0NzM4NjIsMzQ4MTA2NDQ3LDIwNj
 EyMDgyNzYsLTIzMDUzODQ3MywtNjgxMTczNzIxLC0xMDQ5MDE0
 MDU2LC05NjY3NzA0ODMsLTE3NzE3MTkxNzMsLTEwNDkwMTQwNT
 YsMTYyNzgwNzYzNywtMTg0NzI1OTA0OCw0MjIwMTc5MDQsLTE3
