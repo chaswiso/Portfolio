@@ -2,7 +2,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Test Cases
 > This document will describe the scenarios and steps that will be performed to validate functionality and determine an expected outcome.
-> Test cases are a collection of scenarios or a single scenario and 
+> 
+> Test cases are a collection of scenarios or a single scenario and their corresponding steps and expected outcomes.
 ## Scenarios
 > Scenarios are simply functionality that can be tested. They help drive your testing by stepping through an application the way a user would. Thinking like a user and determining as many real-world scenarios as possible will lead to more complete test coverage.
 ## Steps and Expected Results
@@ -16,5 +17,5 @@
 >
 > [EXM - Mobile RDC Auto Credit Exceptions](https://github.com/chaswiso/portfolio/blob/main/images/EXM%20-%20Mobile%20RDC%20Auto%20Credit%20Exceptions%20-%20TestRail.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTA1MTkwMSwtMjA5NjEyMzA2Nl19
+eyJoaXN0b3J5IjpbODQyMDc0NTA3LC0yMDk2MTIzMDY2XX0=
 -->
