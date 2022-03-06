@@ -2,6 +2,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 # Test Plan
+> This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities.”
 ## Introduction
 > So... What do we plan on doing
 ## Objectives and Tasks
@@ -46,6 +47,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
-M2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA1MzYwNDcwNSwtMjM2MTM2OTUzLDE1OD
+UxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
