@@ -83,9 +83,9 @@
 - testers
 - roles
 - responsibilities
-| tester | role | respo |
-|--|--|
-|  |  |
+| tester | role | responsibility |
+|--------|------|-----------------|
+|            |        |                         |
 
 ### System Resources
 - servers
@@ -135,8 +135,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTA0MzcwMSw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzQ1MDczMDczLDU0MjQ5MDk4Miw1MDEyMT
+Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
+LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
+M2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
