@@ -15,8 +15,9 @@
 - work with developers and identify scenarios to arrange, act and assert
 ### API Testing
 - endpoints
-- requests
-- responses
+- requests and responses
+- data
+- permissions
 ### Integration and System Testing
 - project team test scenarios
 - merged system test scenarios
@@ -87,7 +88,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTMyNzY2NSw1MDEyMTQ4NzQsLTE3Mz
+eyJoaXN0b3J5IjpbLTYyNjY2ODQ3MSw1MDEyMTQ4NzQsLTE3Mz
 c1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4
 MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNz
 MwOTk4MTE2XX0=
