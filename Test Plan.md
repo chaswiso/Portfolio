@@ -48,7 +48,7 @@
 ### Staging
 ### Production
 ## Test Schedule
-> Estimate man hours 
+> Estimate the man hours required for testing tasks and determine the schedule for test completion
 ## Control Procedures
 ## Features to Be Tested
 ## Features NOT to Be Tested
@@ -65,12 +65,13 @@
 ## Risks and Assumptions
 ## Tools
 ## Test Deliverables
+> 
 ## Approvals
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDcyODg2LDEwNTMzNTgyNjksMTMxNj
-EzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQw
-Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTM3MzQxMDYyNiwxMDUzMzU4MjY5LDEzMT
+YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
+MDMsNzMwOTk4MTE2XX0=
 -->
