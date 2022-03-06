@@ -71,7 +71,7 @@
 > Specific functionality NOT included in this release
 
 ## Test Criteria
-> What could possibly stop testing?
+> What conditions would stop testing?
 ### Suspension Criteria
 - fail rate
 ### Exit Criteria
@@ -115,7 +115,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NjEyMTIzLDU0MjQ5MDk4Miw1MDEyMT
+eyJoaXN0b3J5IjpbLTIyMTUzMDA2LDU0MjQ5MDk4Miw1MDEyMT
 Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
 LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
 M2ODE0MDMsNzMwOTk4MTE2XX0=
