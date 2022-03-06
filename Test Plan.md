@@ -13,9 +13,8 @@
 ### Integration and System Testing
 ### Performance and Stress Testing
 ### User Acceptance Testing
-### Batch Testing
 ### Automated Regression Testing
-### Beta Testing
+### Deployment
 ## Hardware Requirements
 ## Environment Requirements
 ### Desktop
@@ -38,6 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM1MzAzMzgsMTYxMzY4MTQwMyw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAxMzA1MjMyLDE2MTM2ODE0MDMsNzMwOT
+k4MTE2XX0=
 -->
