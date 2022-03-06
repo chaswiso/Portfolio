@@ -22,10 +22,14 @@
 - project team test scenarios
 - merged system test scenarios
 ### Performance and Stress Testing
-
+- performant queries
+- user load testing
 ### User Acceptance Testing
+- customer test scenarios
 ### Automated Regression Testing
+- validate legacy test scenarios work properly
 ### Post Deployment Testing
+- 
 ## Hardware Requirements
 ### Desktop
 - Browsers
@@ -57,7 +61,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjkxMjMxLDEzMTYxMzE4MTQsLTIzNj
-EzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTE2NTQ3MTkxODIsMTMxNjEzMTgxNCwtMj
+M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
+MTZdfQ==
 -->
