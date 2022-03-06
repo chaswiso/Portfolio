@@ -32,7 +32,9 @@
 - Outstanding Questions
 - Stop Time
 - Peripheral Testing
+> Examples:
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTMyMzY0MSw2NzM5NjY3NDEsMzQzNz
-I3OTcxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDczMjA0OTAsNjczOTY2NzQxLDM0MzcyNz
+k3MSw3MzA5OTgxMTZdfQ==
 -->
