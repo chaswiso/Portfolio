@@ -6,9 +6,7 @@
 ## Introduction
 > Brief summary of the release or product being tested
 ## Objectives
-> What are the goals of this release and the associated tasks for success
-### Objectives
-### Tasks
+> What are the test objectives and goals of this release?
 ## Scope
 > What is available in this release for testing, and what specifically will NOT be tested
 ## Testing Strategy
@@ -89,7 +87,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NzQyMjcsLTE3Mzc1ODA4NzIsMTUxNz
-MxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEzNjk1
-MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNTcyMjE1NjcsLTE3Mzc1ODA4NzIsMT
+UxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEz
+Njk1MywxNTg1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX
+0=
 -->
