@@ -2,15 +2,15 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 # Test Plan
-> This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities for the described project or release.”
+> This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities for the described project or release.
 ## Introduction
-> Brief summary of the release or product being tested
+> Brief summary of the release or product being tested.
 ## Objectives
 > What are the test objectives and goals of this release?
 ## Scope
-> What will be tested in this release, and what specifically will NOT be tested?
+> What will be tested in this release, and specifically what will NOT be tested?
 ## Testing Strategy
-> Perform multiple types of test procedures that give expected test outcomes
+> Perform multiple types of test procedures that give expected test outcomes.
 ### Unit Testing
 - work with developers to identify scenarios to arrange, act and assert
 ### API Testing
@@ -87,7 +87,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMjE0ODc0LC0xNzM3NTgwODcyLDE1MT
-czMTcwNjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC0yMzYxMzY5
-NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTAzNjIzNTQ1LDUwMTIxNDg3NCwtMTczNz
+U4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgx
+NCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3Mz
+A5OTgxMTZdfQ==
 -->
