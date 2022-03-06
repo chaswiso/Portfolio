@@ -5,7 +5,7 @@
 ## Scenarios
 > Scenarios are simply functionality that can be tested. They help drive your testing by stepping through an application the way a user would. Thinking like a user and determining as many real-world scenarios as possible will lead to more complete test coverage.
 ## Steps and Expected Results
-> Scenarios will have steps that are the instructions or actions taken by the tester
+> Scenarios will have steps that are the instructions or **actions** taken by the tester and **expected outcomes**. Each step should lead to an expected behavior
 > Examples:
 > 
 > [Audit Report - Customer Activity](https://github.com/chaswiso/portfolio/blob/main/images/Audit%20Report%20-%20Customer%20Activity%20-%20TestRail.pdf)
@@ -14,6 +14,6 @@
 >
 > [EXM - Mobile RDC Auto Credit Exceptions](https://github.com/chaswiso/portfolio/blob/main/images/EXM%20-%20Mobile%20RDC%20Auto%20Credit%20Exceptions%20-%20TestRail.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU2NTYwMDEsMTk2Mjg0NTYxNiwtMT
-MxODkxMzE3MiwtMzQ5MTY0NzY4XX0=
+eyJoaXN0b3J5IjpbMTI5MTk3NzY4NywxOTYyODQ1NjE2LC0xMz
+E4OTEzMTcyLC0zNDkxNjQ3NjhdfQ==
 -->
