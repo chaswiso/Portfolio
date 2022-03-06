@@ -108,7 +108,9 @@
 > Define any known risks and possible contingency plans for mitigation
 
 ## Tools
-
+> What testing or automation tools will be used?
+- defects
+- automation
 ## Test Deliverables
 > All the documents or components that have to be developed to support the testing effort
 - test plan
@@ -127,7 +129,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0MjcwOCw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbLTE5MTk0MTU5MSw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
