@@ -2,7 +2,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 # Test Plan
-> This document will describe the scope, approach, resources, and schedule of FlightAware's intended test activities for the described project or release.
+> This document will describe the scope, approach, resources, and schedule of ***FlightAware*** intended test activities for the described project or release.
 ## Introduction
 > Brief summary of the release or product being tested.
 
@@ -105,7 +105,7 @@
 - resources
 - deadlines
 ## Risks and Assumptions
-> Define any known **risks** and possible contingency plans for mitigation
+> Define any known **risks** and possible contingency plans for **mitigation**
 
 ## Tools
 > What testing or automation tools will be used?
@@ -131,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTcwODA5Niw1NDI0OTA5ODIsNTAxMj
-E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
-OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
-EzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzcwNjQ5MDc2LDU0MjQ5MDk4Miw1MDEyMT
+Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
+LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
+M2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
