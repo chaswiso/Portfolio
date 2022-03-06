@@ -56,13 +56,15 @@
 > What could possibly stop testing?
 ### Suspension Criteria
 ### Exit Criteria
+- run rate
+- pass rate
 ## Resources, Roles and Responsibilities
 ### Human Resources
 - testers
 ### System Resources
 - servers
 - test tools
-- 
+- network
 ## Schedules
 ## Impacted Departments
 ## Dependencies
@@ -85,7 +87,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MzEwNjc2LDEwNTMzNTgyNjksMTMxNj
-EzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQw
-Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NzMzNjkxNjIsMTA1MzM1ODI2OSwxMz
+E2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgx
+NDAzLDczMDk5ODExNl19
 -->
