@@ -11,7 +11,7 @@
 - *Use* specific tools or an approach to test
 - *Discover* specific information from your tests
 ### Identify
-> What specific feature or area of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
+> What specific **feature or area** of the application are you targeting for discovery? Is it user authentication or maybe a backend service?
 ### Use
 > What testing tools will be used, or better yet - what approach will be implemented? An approach is an overall **theme** to keep the charter focused. Some examples are:
 - navigation
@@ -21,7 +21,7 @@
 - money movement
 - social networks
 ### Discover
-> So what did you find out? Were there 404 errors? Any confusing or misleading error messages? What you discovered will need to be presented in a conclusion report
+> So what did you find out? Were there 404 errors? Any confusing or misleading error messages? What you **discovered** will need to be presented in a conclusion report
 - Charter Name
 - Environment
 - Start Time
@@ -35,6 +35,6 @@
 > **Examples**:
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTQ1NjcyNiw2NzM5NjY3NDEsMzQzNz
+eyJoaXN0b3J5IjpbLTk0NDcyMzE1OCw2NzM5NjY3NDEsMzQzNz
 I3OTcxLDczMDk5ODExNl19
 -->
