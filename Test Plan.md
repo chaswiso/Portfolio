@@ -70,6 +70,7 @@
 ## Impacted Departments
 ## Dependencies
 ## Risks and Assumptions
+> Define any known risks and possible solutions for mitigation
 ## Tools
 ## Test Deliverables
 > All the documents or components that have to be developed to support the testing effort
@@ -88,7 +89,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzMxNzA2NSwxMDUzMzU4MjY5LDEzMT
-YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
-MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk4NDA4MjQ5MSwxNTE3MzE3MDY1LDEwNT
+MzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2
+NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
