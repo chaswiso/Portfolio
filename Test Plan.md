@@ -31,6 +31,7 @@
 ### Post Deployment Testing
 - production testing and wheels up!
 ## Hardware Requirements
+> What physical devices will be required to test this release?
 ### Desktop
 - Browsers
 ### Mobile
@@ -40,6 +41,7 @@
 - PiAware
 - FlightFeeder
 ## Environment Requirements
+> What branches and build versions will be included in this release?
 ### Development
 ### QA
 ### Staging
@@ -61,7 +63,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzgyMDUxNiwxMzE2MTMxODE0LC0yMz
-YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTExOTgwOTYyNjMsMTMxNjEzMTgxNCwtMj
+M2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgx
+MTZdfQ==
 -->
