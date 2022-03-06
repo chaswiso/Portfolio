@@ -26,12 +26,13 @@
 - Environment
 - Start Time
 - Areas Tested
+- Testing Method
 - Defects Logged
 - Deliverables
 - Outstanding Questions
 - Stop Time
 - Peripheral Testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2Mzc3MDM5LDY3Mzk2Njc0MSwzNDM3Mj
-c5NzEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTAwNTMyMzY0MSw2NzM5NjY3NDEsMzQzNz
+I3OTcxLDczMDk5ODExNl19
 -->
