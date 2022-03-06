@@ -13,7 +13,7 @@
 ## Testing Strategy
 > Perform multiple types of test procedures that give expected test outcomes
 ### Unit Testing
-- work with developers
+- work with developers to identify scenarios to arrange, act and assert
 ### API Testing
 - endpoints
 - requests
@@ -61,7 +61,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTAxNzU3MCwxMzE2MTMxODE0LC0yMz
+eyJoaXN0b3J5IjpbMTA4NzgyMDUxNiwxMzE2MTMxODE0LC0yMz
 YxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODEx
 Nl19
 -->
