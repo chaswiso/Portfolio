@@ -124,12 +124,15 @@
 - release notes
 
 ## Approvals
-> Signoffs when testing is completed
+> Names and titles of all the individuals that must approve this plan
+- engineering
+- product
+- customer service
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk0MTU5MSw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbLTk2OTEzMjk5NCw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
