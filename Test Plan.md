@@ -61,7 +61,9 @@
  - [ ] Testing MIlestones
 
 ## Control Procedures
-
+> What procedures will be followed if testing goes sideways?
+- problem reporting
+- change requests
 ## Features to Be Tested
 > Feature functionality included in this release
 
@@ -113,8 +115,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NDMzMTYsNTQyNDkwOTgyLDUwMTIxND
-g3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgyNjks
-MTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMz
-Y4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTM0NjEyMTIzLDU0MjQ5MDk4Miw1MDEyMT
+Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
+LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
+M2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
