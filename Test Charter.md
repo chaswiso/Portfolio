@@ -22,6 +22,7 @@
 - social networks
 ### Discover
 > So what did you find out? Were there 404 errors? Any confusing or misleading error messages? What you **discovered** will need to be presented in a conclusion report
+- Tester
 - Charter Name
 - Environment
 - Start Time
@@ -35,6 +36,6 @@
 > **Examples**:
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDcyMzE1OCw2NzM5NjY3NDEsMzQzNz
-I3OTcxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTE5OTE4NTQ0NiwtOTQ0NzIzMTU4LDY3Mz
+k2Njc0MSwzNDM3Mjc5NzEsNzMwOTk4MTE2XX0=
 -->
