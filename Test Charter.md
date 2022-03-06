@@ -22,7 +22,10 @@
 - social networks
 ### Discover
 > So what did you find out? Were there 404 errors? Any confusing or misleading error messages? What you discovered will need to be presented in a conclusion report
+- Charter Name
+- Environment
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjM3MjAwOSw2NzM5NjY3NDEsMzQzNz
-I3OTcxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTY0NTI3MTAxLDY3Mzk2Njc0MSwzNDM3Mj
+c5NzEsNzMwOTk4MTE2XX0=
 -->
