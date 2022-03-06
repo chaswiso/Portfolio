@@ -22,10 +22,14 @@
 ### Mobile
 - iOS
 - Android
+## Test Schedule
+## Control Procedures
+## Features to Be Tested
+## Features NOT to Be Tested
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTAyMjA4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDI0MjMzMjksNzMwOTk4MTE2XX0=
 -->
