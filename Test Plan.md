@@ -81,6 +81,8 @@
 ## Resources, Roles and Responsibilities
 ### Human Resources
 - testers
+- roles
+- responsibilities
 ### System Resources
 - servers
 - test tools
@@ -115,8 +117,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTUzMDA2LDU0MjQ5MDk4Miw1MDEyMT
-Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
-LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
-M2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk1ODE1MzY2NSw1NDI0OTA5ODIsNTAxMj
+E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
+OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
+EzNjgxNDAzLDczMDk5ODExNl19
 -->
