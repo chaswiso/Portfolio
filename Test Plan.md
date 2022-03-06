@@ -125,14 +125,13 @@
 
 ## Approvals
 > Names and titles of all the individuals that must approve this plan
-- engineering
-- product
-- customer service
 
-
+ - [ ] Engineering
+ - [ ] Product
+ - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTEzMjk5NCw1NDI0OTA5ODIsNTAxMj
+eyJoaXN0b3J5IjpbMTQxNjY4NTUwNCw1NDI0OTA5ODIsNTAxMj
 E0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2
 OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMTU4NTExMjY1NywxNj
 EzNjgxNDAzLDczMDk5ODExNl19
