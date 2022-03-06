@@ -7,10 +7,10 @@
 > Brief summary of the release or product being tested.
 
 ## Objectives
-> What are the test objectives and goals of this release?
+> What are the test **objectives** and **goals** of this release?
 
 ## Scope
-> What functionality is new or changed and will be tested in this release, and specifically what will NOT be tested?
+> What functionality is new or changed and **will** be tested in this release, and specifically what **will NOT** be tested?
 ### Included
 ### Excluded
 
@@ -131,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNjQ5MDc2LDU0MjQ5MDk4Miw1MDEyMT
-Q4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2NSwxMDUzMzU4MjY5
-LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MT
-M2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMTEyMDE4NjgsNTQyNDkwOTgyLDUwMT
+IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
+NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
+YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
