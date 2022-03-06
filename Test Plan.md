@@ -48,6 +48,7 @@
 ### Staging
 ### Production
 ## Test Schedule
+> Estimate man hours 
 ## Control Procedures
 ## Features to Be Tested
 ## Features NOT to Be Tested
@@ -69,7 +70,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzAwODE3OSwxMDUzMzU4MjY5LDEzMT
-YxMzE4MTQsLTIzNjEzNjk1MywxNTg1MTEyNjU3LDE2MTM2ODE0
-MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjk4NDcyODg2LDEwNTMzNTgyNjksMTMxNj
+EzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMTYxMzY4MTQw
+Myw3MzA5OTgxMTZdfQ==
 -->
