@@ -1,11 +1,9 @@
 
-
-
 > Written with [StackEdit](https://stackedit.io/).
+
 # Test Strategy
 > This document will describe the overall **approach** to testing and multiple **types** of test procedures that give expected test outcomes.
 ## Functional Tests
-> Describe the overall **approach** to testing and multiple **types** of test procedures that give expected test outcomes.
 ### Unit Testing
 - work with developers and identify scenarios to arrange, act and assert
 ### API Testing
@@ -26,6 +24,6 @@
 ### Post Deployment Testing
 - production checkout and wheels up!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNjMwMTYyLDM2MzgyNDExNSwtMTgzND
-MxMTg1Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc5MzM5OTEwOCwzNjM4MjQxMTUsLTE4Mz
+QzMTE4NTcsNzMwOTk4MTE2XX0=
 -->
