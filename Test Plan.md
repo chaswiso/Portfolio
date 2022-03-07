@@ -70,16 +70,19 @@
 - story2
 - bug1
 - task1
+
 ## Features NOT to Be Tested
 > Specific functionality **NOT included** in this release
+- story1
+- task1
 
 ## Test Criteria
 > What conditions would **stop** testing?
 ### Suspension Criteria
-- fail rate
+- fail rate exceeds 40% of the total test run
 ### Exit Criteria
-- run rate
-- pass rate
+- run rate equals 100% of the total test run
+- pass rate equals 95% of the total test run
 
 ## Resources, Roles and Responsibilities
 ### Human Resources
@@ -134,7 +137,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTU3NTY2MSwtMjA2MTA0MTYxMSw1ND
+eyJoaXN0b3J5IjpbLTg2MTM4MTE5MSwtMjA2MTA0MTYxMSw1ND
 I0OTA5ODIsNTAxMjE0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcw
 NjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMT
 U4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODExNl19
