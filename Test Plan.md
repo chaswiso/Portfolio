@@ -50,6 +50,7 @@
 ## Environment Requirements
 > What **branch** and **build version** will be included in this release and **where** will it be tested?
 ### Branch
+- buil
 ### Version
  - [ ] Development
  - [ ] QA
@@ -66,15 +67,14 @@
 - change requests will need to be directed through the Product Owner of the appropriate team
 ## Features to Be Tested
 > Feature functionality **included** in this release
-- story1
-- story2
-- bug1
-- task1
+- story
+- bug
+- task
 
 ## Features NOT to Be Tested
 > Specific functionality **NOT included** in this release
-- story1
-- task1
+- story
+- task
 
 ## Test Criteria
 > What conditions would **stop** testing?
@@ -138,8 +138,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2OTY4NzA2LC0yMDYxMDQxNjExLDU0Mj
-Q5MDk4Miw1MDEyMTQ4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2
-NSwxMDUzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNT
-g1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTczMDg0MTM5MCwtMjA2MTA0MTYxMSw1ND
+I0OTA5ODIsNTAxMjE0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcw
+NjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMT
+U4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODExNl19
 -->
