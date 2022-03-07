@@ -23,10 +23,10 @@
 - validate legacy test scenarios work properly
 ### Post Deployment Testing
 - production checkout and wheels up!
-> Example:
+> **Example**:
 >
 > [Sprint 2-22-2022](https://github.com/chaswiso/portfolio/blob/main/images/Strategy%20-%20Sprint%202-22-2022.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzEyMDM4NCwxNzkzMzk5MTA4LDM2Mz
+eyJoaXN0b3J5IjpbMTkyOTE2MzAwOCwxNzkzMzk5MTA4LDM2Mz
 gyNDExNSwtMTgzNDMxMTg1Nyw3MzA5OTgxMTZdfQ==
 -->
