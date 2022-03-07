@@ -65,7 +65,7 @@
 ## Control Procedures
 > What procedures will be followed if testing goes sideways?
 - all problems will be reported in the defect ticketing system
-- change requests must be directed through the team's Product Owner of the appropriate team
+- change requests must be directed through the team's Product Owner
 ## Features to Be Tested
 > Feature functionality **included** in this release
 - story
@@ -139,7 +139,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTQ1ODk3OSwtMTQxMTU1NDUyNCwtMj
+eyJoaXN0b3J5IjpbMTAzNDc4Mzg1NSwtMTQxMTU1NDUyNCwtMj
 A2MTA0MTYxMSw1NDI0OTA5ODIsNTAxMjE0ODc0LC0xNzM3NTgw
 ODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC
 0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5
