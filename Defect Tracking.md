@@ -8,15 +8,16 @@
 - issue type
 - summary
 - description
->*Issue:**  
-**Client Impact:**  
-**Notes:**  
-**Steps:**
-**Actual Behavior:**  
-**Expected Behavior:**  
-**User Details:**  
-**Device:**  
-**Affected Build:**
+>
+>Issue:
+Client Impact:
+Notes:
+Steps:
+Actual Behavior
+Expected Behavior:
+User Details:
+Device:
+Affected Build:
 - environment found in
 - labels
 - components
@@ -26,6 +27,6 @@
 - sprint
 - story points
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ4MDI0NTQsMTQyODU0MTQzMiw3Mz
+eyJoaXN0b3J5IjpbLTE2ODM1ODk3NTAsMTQyODU0MTQzMiw3Mz
 A5OTgxMTZdfQ==
 -->
