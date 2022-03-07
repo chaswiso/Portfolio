@@ -24,8 +24,8 @@
 - data
 - permissions
 ### Integration and System Testing
-- project team test scenarios
-- main system test scenarios
+- project team tests
+- main system tests
 ### Smoke Testing
 - site up testing
 ### Performance and Stress Testing
@@ -139,8 +139,9 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE1NTQ1MjQsLTIwNjEwNDE2MTEsNT
-QyNDkwOTgyLDUwMTIxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3
-MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLD
-E1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU2NjI1OTgyMCwtMTQxMTU1NDUyNCwtMj
+A2MTA0MTYxMSw1NDI0OTA5ODIsNTAxMjE0ODc0LC0xNzM3NTgw
+ODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC
+0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5
+ODExNl19
 -->
