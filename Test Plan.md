@@ -96,10 +96,10 @@
 
 ## Schedules
 > What is the **timeline** for major deliverables?
-- test plan  3/8/2022
-- test cases  4/8/2022
-- defect report  4/22/2022  
-- test summary report   
+- test plan  - 3/8/2022
+- test cases  - 4/8/2022
+- defect report  - 4/22/2022  
+- test summary report  - 4/30/2022 
 ## Impacted Departments
 > Identify the **teams** and involved parties for this release
 ### Teams
@@ -112,7 +112,8 @@
 - deadlines
 ## Risks and Assumptions
 > Define any known **risks** and possible contingency plans for **mitigation**
-
+- pto days
+- patching
 ## Tools
 > What testing or automation **tools** will be used?
 - defects
@@ -137,8 +138,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzOTA2ODUsLTIwNjEwNDE2MTEsNTQyND
-kwOTgyLDUwMTIxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1
-LDEwNTMzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1OD
-UxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzg2OTY4NzA2LC0yMDYxMDQxNjExLDU0Mj
+Q5MDk4Miw1MDEyMTQ4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2
+NSwxMDUzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNT
+g1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
