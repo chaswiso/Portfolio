@@ -26,6 +26,8 @@
 ### Integration and System Testing
 - project team test scenarios
 - main system test scenarios
+### Smoke Testing
+- site up testing
 ### Performance and Stress Testing
 - performant queries
 - user load testing
@@ -137,7 +139,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM4NjA4NDUsLTIwNjEwNDE2MTEsNT
+eyJoaXN0b3J5IjpbLTE0MTE1NTQ1MjQsLTIwNjEwNDE2MTEsNT
 QyNDkwOTgyLDUwMTIxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3
 MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLD
 E1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
