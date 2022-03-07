@@ -86,7 +86,7 @@
 
 ## Resources, Roles and Responsibilities
 ### Human Resources
-- testers
+- tester
 - roles
 - responsibilities
 ### System Resources
@@ -137,8 +137,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTM4MTE5MSwtMjA2MTA0MTYxMSw1ND
-I0OTA5ODIsNTAxMjE0ODc0LC0xNzM3NTgwODcyLDE1MTczMTcw
-NjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC0yMzYxMzY5NTMsMT
-U4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3MDQ5NDg5NTAsLTIwNjEwNDE2MTEsNT
+QyNDkwOTgyLDUwMTIxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3
+MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLD
+E1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
