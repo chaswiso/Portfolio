@@ -27,8 +27,8 @@ Affected Build:
 - sprint
 - story points
 > **Examples:**
-> [DEV-120167](https://github.com/chaswiso/portfolio/blob/main/images/%5B#DEV-120167%5D%20SSRS%20_%20Audit%20Report%20-%20User%20Audit%20-%20History%20_%20Convert%20Dynamic%20Parameter%20to%20Static%20for%20Performance.pdf)
+> [DEV-120167](https://github.com/chaswiso/portfolio/blob/main/images/SSRS%20_%20Audit%20Report%20-%20User%20Audit%20-%20History%20_%20Convert%20Dynamic%20Parameter%20to%20Static%20for%20Performance.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODcwNzM4NywxMTkzNDEwNDksMTQyOD
-U0MTQzMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzAzNzUxOTAsMTE5MzQxMDQ5LDE0Mj
+g1NDE0MzIsNzMwOTk4MTE2XX0=
 -->
