@@ -62,8 +62,8 @@
 
 ## Control Procedures
 > What procedures will be followed if testing goes sideways?
-- problem reporting
-- change requests
+- all problems will need to be reported in the JIRA ticketing system
+- change requests w
 ## Features to Be Tested
 > Feature functionality **included** in this release
 
@@ -131,8 +131,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwNDE2MTEsNTQyNDkwOTgyLDUwMT
-IxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1LDEwNTMzNTgy
-NjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1ODUxMTI2NTcsMT
-YxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzY5OTIxMzkwLC0yMDYxMDQxNjExLDU0Mj
+Q5MDk4Miw1MDEyMTQ4NzQsLTE3Mzc1ODA4NzIsMTUxNzMxNzA2
+NSwxMDUzMzU4MjY5LDEzMTYxMzE4MTQsLTIzNjEzNjk1MywxNT
+g1MTEyNjU3LDE2MTM2ODE0MDMsNzMwOTk4MTE2XX0=
 -->
