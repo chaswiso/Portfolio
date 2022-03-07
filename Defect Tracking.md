@@ -8,11 +8,24 @@
 - issue type
 - summary
 - description
+>*Issue:**  
+**Client Impact:**  
+**Notes:**  
+**Steps:**
+**Actual Behavior:**  
+**Expected Behavior:**  
+**User Details:**  
+**Device:**  
+**Affected Build:**
 - environment found in
 - labels
 - components
-- 
+- affects version
+- team
+- linked issues
+- sprint
+- story points
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MzY3MTE3LDE0Mjg1NDE0MzIsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MjQ4MDI0NTQsMTQyODU0MTQzMiw3Mz
+A5OTgxMTZdfQ==
 -->
