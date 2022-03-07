@@ -12,8 +12,10 @@
 - data
 - permissions
 ### Integration and System Testing
-- project team test scenarios
-- main system test scenarios
+- project team tests
+- main system tests
+### Smoke Testing
+- site up testing
 ### Performance and Stress Testing
 - performant queries
 - user load testing
@@ -27,6 +29,7 @@
 >
 > [Sprint 2-22-2022](https://github.com/chaswiso/portfolio/blob/main/images/Strategy%20-%20Sprint%202-22-2022.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTE2MzAwOCwxNzkzMzk5MTA4LDM2Mz
-gyNDExNSwtMTgzNDMxMTg1Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDIxNDU5MTMsMTkyOTE2MzAwOCwxNz
+kzMzk5MTA4LDM2MzgyNDExNSwtMTgzNDMxMTg1Nyw3MzA5OTgx
+MTZdfQ==
 -->
