@@ -96,10 +96,10 @@
 
 ## Schedules
 > What is the **timeline** for major deliverables?
-- test plan
-- test cases
-- defect report
-- test summary report 
+- test plan  3/8/2022
+- test cases  4/8/2022
+- defect report  4/22/2022  
+- test summary report   
 ## Impacted Departments
 > Identify the **teams** and involved parties for this release
 ### Teams
@@ -137,8 +137,8 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ5NDg5NTAsLTIwNjEwNDE2MTEsNT
-QyNDkwOTgyLDUwMTIxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3
-MDY1LDEwNTMzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLD
-E1ODUxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzUzOTA2ODUsLTIwNjEwNDE2MTEsNTQyND
+kwOTgyLDUwMTIxNDg3NCwtMTczNzU4MDg3MiwxNTE3MzE3MDY1
+LDEwNTMzNTgyNjksMTMxNjEzMTgxNCwtMjM2MTM2OTUzLDE1OD
+UxMTI2NTcsMTYxMzY4MTQwMyw3MzA5OTgxMTZdfQ==
 -->
