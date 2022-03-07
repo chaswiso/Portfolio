@@ -26,7 +26,9 @@ Affected Build:
 - linked issues
 - sprint
 - story points
+> **Examples:**
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM1ODk3NTAsMTQyODU0MTQzMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTE5MzQxMDQ5LDE0Mjg1NDE0MzIsNzMwOT
+k4MTE2XX0=
 -->
