@@ -35,7 +35,9 @@
 - Peripheral Testing
 > **Examples**:
 > 
+> [Test Charter - Extracts](https://github.com/chaswiso/portfolio/blob/main/images/Test%20Charter%20-%20Extracts.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTE4NTQ0NiwtOTQ0NzIzMTU4LDY3Mz
-k2Njc0MSwzNDM3Mjc5NzEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NTM3NDk0NzgsMTE5OTE4NTQ0NiwtOT
+Q0NzIzMTU4LDY3Mzk2Njc0MSwzNDM3Mjc5NzEsNzMwOTk4MTE2
+XX0=
 -->
