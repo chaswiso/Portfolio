@@ -110,11 +110,11 @@
 > Are there any known **constraints** on testing?
 - builds
 - resources
-- deadlines
+- patching
 ## Risks and Assumptions
 > Define any known **risks** and possible contingency plans for **mitigation**
-- pto days
-- patching
+- cross team deliverables
+- deadlines
 ## Tools
 > What testing or automation **tools** will be used?
 - defects
@@ -139,7 +139,7 @@
  - [ ] Customer Service
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDc4Mzg1NSwtMTQxMTU1NDUyNCwtMj
+eyJoaXN0b3J5IjpbLTIyOTIxMTg1OCwtMTQxMTU1NDUyNCwtMj
 A2MTA0MTYxMSw1NDI0OTA5ODIsNTAxMjE0ODc0LC0xNzM3NTgw
 ODcyLDE1MTczMTcwNjUsMTA1MzM1ODI2OSwxMzE2MTMxODE0LC
 0yMzYxMzY5NTMsMTU4NTExMjY1NywxNjEzNjgxNDAzLDczMDk5
