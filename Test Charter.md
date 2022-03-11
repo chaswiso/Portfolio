@@ -35,9 +35,14 @@
 - Peripheral Testing
 > **Examples**:
 > 
-> [Test Charter - Extracts](https://github.com/chaswiso/portfolio/blob/main/images/Test%20Charter%20-%20Extracts.pdf)
+> [Test Charter - Extracts](https://github.com/chaswiso/portfolio/blob/main/images/Test%20Charter%20-%20Extracts.pdf)## Exploratory Testing
+> Testing on the fly without test cases or scenarios to determine how the software behaves
+- *Identify* a target area, feature or API
+- *Use* specific tools or technologies to test
+- *Discover* specific information from your tests
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM3NDk0NzgsMTE5OTE4NTQ0NiwtOT
-Q0NzIzMTU4LDY3Mzk2Njc0MSwzNDM3Mjc5NzEsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTQ1NjEyMTI5NywtMTg1Mzc0OTQ3OCwxMT
+k5MTg1NDQ2LC05NDQ3MjMxNTgsNjczOTY2NzQxLDM0MzcyNzk3
+MSw3MzA5OTgxMTZdfQ==
 -->
